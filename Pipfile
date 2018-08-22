@@ -10,5 +10,6 @@ django-heroku = "*"
 
 [dev-packages]
 
+# Pipfile
 [requires]
 python_version = "3.7"
